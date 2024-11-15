@@ -1,0 +1,84 @@
+
+/* navver start  */
+.Education{
+    font-size:30.929px;
+    font-weight: 500;   
+}
+li{
+    margin:0px 10px;
+}
+#nav-color-change{
+    color:rgba(0, 0, 0,0.9);
+    font-weight: 500;
+    font-size: 18px;
+}
+#btn-1{
+    color: rgb(#0B5ED7);
+    font-size: 20px;
+    font-weight: 500;
+}
+.carousel-item img{
+    height: 600px;
+}
+.carousel-write-change{
+    font-size: 60px;
+    font-weight: 600px;
+}
+
+.btn-2{
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+}
+#Discover-color-change{
+    font-weight: 700;
+    font-size: 32px;
+    color:rgba(0, 0, 0,0.9);  
+}
+
+.explore-padding{
+    padding-top:20%;
+}
+#explore-font-size{
+    font-size: 50px;
+    color:rgb(29, 29, 29) ;
+}
+
+.ready-section-colour{
+    height: 218px;
+    background-color: #0D6EFD;
+    border-radius: 10px;
+}
+
+
+/* some student-down */
+/* some student-down */
+.icon-comma{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.there-are-many{
+    padding-left: 20px;
+}
+.there-are-many p{
+    color: rgb(108,117,125);
+    font-size: 18px;
+}
+.icon{
+    color: orange;
+    padding-right: 2%;
+    font-size: 25px;
+    
+}
+.footer-last a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.footer-last i{
+    padding: 10px;
+    font-size: 30px;
+
+}
+.register-now-section{
+    padding: 80px;
+}
